@@ -1,0 +1,25 @@
+body
+{
+color:white;
+background:lightsalmon;
+}
+
+.heading
+{
+    width:80%;
+    font-size:20px;
+}
+
+#camera
+{
+    width:400px;
+    height: 350px;
+    border:2px solid lightseagreen;
+}
+
+.name_of_objects, #result_object_name,#result_object_accuracy
+{
+    color:lightseagreen;
+    font-size: 30px;
+}
+
